@@ -1,2 +1,2 @@
 # Neural-Network-From-Scratch
-Bulding neural network from scracth using python
+Bulding neural network from scratch using python
